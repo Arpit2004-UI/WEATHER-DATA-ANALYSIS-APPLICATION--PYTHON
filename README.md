@@ -183,7 +183,6 @@ Modify button, chart, or background color settings directly in the code!
 **👤 Name:** Arpit Soni  
 **🎓 Class:** MCA (Data Science)  
 **🏷️ UID:** 25MCD10053  
-**🏫 Mentor:** Ms. Saranjeet Kaur  
 **📚 Course:** Advanced Python Mini Project  
 
 ---
